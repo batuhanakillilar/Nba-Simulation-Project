@@ -1,0 +1,16 @@
+Team Name: Atlanta Hawks Players: Jakob Poeltl,Kyle Kuzma,Jordan Poole,Sam Merrill,Saddiq Bey
+Team Name: Dallas Mavericks Players: Jarrett Allen,Caleb Martin,Fred VanVleet,Derrick White,Thanasis Antetokounmpo
+Team Name: Boston Celtics Players: Damian Jones,Jake LaRavia,Ish Smith,Gary Trent Jr.,Chris Duarte
+Team Name: Chicago Bulls Players: Marvin Bagley III,Karl-Anthony Towns,Ryan Rollins,Jordan Clarkson,Jabari Walker
+Team Name: Los Angeles Lakers Players: Drew Eubanks,Isaiah Mobley,Cade Cunningham,Kentavious Caldwell-Pope,Caleb Houstan
+Team Name: Utah Jazz Players: Jericho Sims,Juancho Hernang�mez,Kennedy Chandler,Joe Harris,Andre Iguodala
+Team Name: Denver Nuggets Players: Nick Richards,Trey Lyles,Jevon Carter,Bryn Forbes,De'Andre Hunter
+Team Name: Houston Rockets Players: Daniel Theis,KZ Okpala,Patrick Beverley,Zach LaVine,Torrey Craig
+Team Name: Brooklyn Nets Players: James Wiseman,James Johnson,Shai Gilgeous-Alexander,Keon Johnson,Duncan Robinson
+Team Name: Golden State Warriors Players: Rudy Gobert,Georges Niang,Darius Garland,Will Barton,Keita Bates-Diop
+Team Name: Miami Heat Players: Mason Plumlee,P.J. Tucker,Ricky Rubio,Amir Coffey,Julian Champagnie
+Team Name: San Antonio Spurs Players: DeAndre Jordan,Nicolas Batum,McKinley Wright IV,Gary Harris,Jack White
+Team Name: Cleveland Cavaliers Players: Andre Drummond,Wenyen Gabriel,John Wall,Anfernee Simons,Bennedict Mathurin
+Team Name: New York Nicks Players: Olivier Sarr,Michael Foster Jr.,Gary Payton II,Jaden Ivey,Xavier Sneed
+Team Name: Orlando Magic Players: Jay Huff,Scottie Barnes,Alex Caruso,Eric Gordon,Kessler Edwards
+Team Name: Toronto Raptors Players: Charles Bassey,Jarrell Brantley,Jacob Gilyard,Malik Monk,Patrick Baldwin Jr.
